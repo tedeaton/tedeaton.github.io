@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/ted_eaton
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://eeaton.ca
+  * I am ted_eaton (https://keybase.io/ted_eaton) on keybase.
+  * I have a public key with fingerprint BAE0 1353 A39F 67EB 2A40  D8A9 814C B554 4023 1624
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "bae01353a39f67eb2a40d8a9814cb55440231624",
+            "host": "keybase.io",
+            "key_id": "814cb55440231624",
+            "uid": "009c384b1b99e74f47ee5837ae66ed00",
+            "username": "ted_eaton"
+        },
+        "service": {
+            "hostname": "eeaton.ca",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402532704,
+    "expire_in": 157680000,
+    "prev": "7da5c050a3024fb73c0c8ba3eac081ceed79faab7caeaedee5eafe1fa9ebb06e",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.22
+Comment: https://keybase.io/crypto
+
+yMHwAnicbZFvSBR5GMd3sxT3tMSkzRd1OvgHRPQ3OzM7s2tgkFCmFCFGhLL9ZuY3
+OrnNrLOze66rp0gF7os7qhfJ3YsE/xwFSiBS/ulYW7s3/kHKNkWFLihBUc87TQkv
+/M1i75o3w+/7fL7f53l4xpPjTBZz224mIdb1D5onwhs+U0XHfzeCBK+KAcIZJOpQ
+7CfJSg3SPJqs6IST4CECJMVQkHJIdhbxNkgDkYMOjqQFnmFoGtgo0m6jiXyiVvUa
+DhzDQy8qkFWs4YdLFrH6Hd4XKwDgECiO5kne4UAsLdEsQgxHsRDZ7UgEwAC9SFPg
+LYRpHYkuBHVVIZrzCSz7ZQHLwVjvAwTF6gUCxE6PpuqqoLqxXKvrHqfh0gMeA/sJ
+8a6DABcvKyLeGhv8SPPKON1JYlLQZSORxDMzlI0FdD6BGjyyhlyyQTCsnQP4M9og
+P45kRcgIgAGQAjZa4llKAALHQwpBAXCkgJDIOiQIeVaACCIR74mghEgJOhDPAzvC
+/b2oXlEJpw2PCWtwpFeuUaDu0xDR/DJcddhktpjijxwy7mayJKZ8u+ZeQsJXmnV1
+ZVkr362OLPDWjvR7vdnz4QvBVyPLc5k3B3rX0xaUldQ4wm1xJx6bmC0bLV3+a6dn
+pxYs/fZl0BX3OvrnaNF4VIRlz1oibW39Sf9emdwaGyvOTO97nGXtbs0p3RteO1rx
+99L28bJwz4PQj0mtTSGiqXL2Ut5uJPq+PZKtnZjO2b3f2XXt6Rthprr9j386e0fq
+i4sDn07fOXXmdsrFou6SvKq8cx8nNhY3G8crf1kPPYnOXo9f6xk4/6IhlbYMX50K
+WX3TKxnlD3//4e3Zof9zJ5NyPyRyj2ZKqpxDJcktd08WXp4K9KV93owU5mSs/mp+
+Pv/ztn9rcU4qdzdW6xv79N0amQ==
+=1/9A
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ted_eaton
+
+==================================================================
